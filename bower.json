@@ -1,0 +1,19 @@
+{
+  "name": "treehealth",
+  "authors": [
+    "gmx9308 <gmx9308@gmail.com>"
+  ],
+  "description": "tree-health-website",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "lovingksk928"
+  ],
+  "license": "MIT",
+  "homepage": "",
+
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0"
+  }
+}
